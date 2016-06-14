@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="photo_select">
+        <item>@string/photo_take</item>
+        <item>@string/photo_album</item>
+    </array>
+    <array name="inform">
+        <item>@string/phone_inform</item>
+        <item>@string/user_inform</item>
+    </array>
+    <string-array name="province_select">
+        <item>@string/beijing</item>
+        <item>@string/tianjin</item>
+        <item>@string/shanghai</item>
+        <item>@string/chongqing</item>
+        <item>@string/hebei</item>
+        <item>@string/henan</item>
+        <item>@string/yunnan</item>
+        <item>@string/liaoning</item>
+        <item>@string/heilongjiang</item>
+        <item>@string/hunan</item>
+        <item>@string/anhui</item>
+        <item>@string/shandong</item>
+        <item>@string/xinjiang</item>
+        <item>@string/jiangsu</item>
+        <item>@string/zhejiang</item>
+        <item>@string/jiangxi</item>
+        <item>@string/hubei</item>
+        <item>@string/guangxi</item>
+        <item>@string/gansu</item>
+        <item>@string/shanxi</item>
+        <item>@string/neimenggu</item>
+        <item>@string/sanxi</item>
+        <item>@string/jilin</item>
+        <item>@string/fujian</item>
+        <item>@string/guizhou</item>
+        <item>@string/guangdong</item>
+        <item>@string/qinghai</item>
+        <item>@string/xizang</item>
+        <item>@string/sichuan</item>
+        <item>@string/ningxia</item>
+        <item>@string/hainan</item>
+        <item>@string/taiwan</item>
+        <item>@string/xianggang</item>
+        <item>@string/aomen</item>
+    </string-array>
+    <string-array name="jiangsu_select" >
+        <item >@string/nanjing</item>
+        <item >@string/wuxi</item>
+        <item >@string/xuzhou</item>
+        <item >@string/changzhou</item>
+        <item >@string/suzhou</item>
+        <item >@string/nantong</item>
+        <item >@string/lianyungang</item>
+        <item >@string/huaian</item>
+        <item >@string/yancheng</item>
+        <item >@string/yangzhou</item>
+        <item >@string/zhenjiang</item>
+        <item >@string/taizhou</item>
+        <item >@string/suqian</item>
+    </string-array>
+
+
+    <string name="photo_take">拍摄照片</string>
+    <string name="photo_album">选择相册</string>
+
+    <string name="beijing">北京市</string>
+    <string name="tianjin">天津市</string>
+    <string name="shanghai">上海市</string>
+    <string name="chongqing">重庆市</string>
+    <string name="hebei">河北省</string>
+    <string name="henan">河南省</string>
+    <string name="yunnan">云南省</string>
+    <string name="liaoning">辽宁省</string>
+    <string name="heilongjiang">黑龙江省</string>
+    <string name="hunan">湖南省</string>
+    <string name="anhui">安徽省</string>
+    <string name="shandong">山东省</string>
+    <string name="xinjiang">新疆维吾尔</string>
+    <string name="jiangsu">江苏省</string>
+    <string name="zhejiang">浙江省</string>
+    <string name="jiangxi">江西省</string>
+    <string name="hubei">湖北省</string>
+    <string name="guangxi">广西壮族</string>
+    <string name="gansu">甘肃省</string>
+    <string name="shanxi">山西省</string>
+    <string name="neimenggu">内蒙古</string>
+    <string name="sanxi">陕西省</string>
+    <string name="jilin">吉林省</string>
+    <string name="fujian">福建省</string>
+    <string name="guizhou">贵州省</string>
+    <string name="guangdong">广东省</string>
+    <string name="qinghai">青海省</string>
+    <string name="xizang">西藏</string>
+    <string name="sichuan">四川省</string>
+    <string name="ningxia">宁夏回族</string>
+    <string name="hainan">海南省</string>
+    <string name="taiwan">台湾省</string>
+    <string name="xianggang">香港特别行政区</string>
+    <string name="aomen">澳门特别行政区</string>
+
+    <string name="nanjing">南京</string>
+    <string name="wuxi">无锡</string>
+    <string name="xuzhou">徐州</string>
+    <string name="changzhou">常州</string>
+    <string name="suzhou">苏州</string>
+    <string name="nantong">南通</string>
+    <string name="lianyungang">连云港</string>
+    <string name="huaian">淮安</string>
+    <string name="yancheng">盐城</string>
+    <string name="yangzhou">扬州</string>
+    <string name="zhenjiang">镇江</string>
+    <string name="taizhou">泰州</string>
+    <string name="suqian">宿迁</string>
+    <string name="phone_inform">打电话通知他/她</string>
+    <string name="user_inform">让他/她联系你</string>
+
+</resources>
