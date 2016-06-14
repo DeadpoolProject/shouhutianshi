@@ -31,5 +31,7 @@ public class Angle_Of_Children extends Application {
     }
     public static void makeToast(String message){
         Toast.makeText(context,message,Toast.LENGTH_SHORT).show();
+
+
     }
 }
