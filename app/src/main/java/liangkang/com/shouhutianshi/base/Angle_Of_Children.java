@@ -26,6 +26,7 @@ public class Angle_Of_Children extends Application {
         if (isFirst){
             SharedPreferences.Editor editor=sharedPreferences.edit();
             editor.putBoolean(ISFIRST,false).apply();
+
         }
         return isFirst;
     }
