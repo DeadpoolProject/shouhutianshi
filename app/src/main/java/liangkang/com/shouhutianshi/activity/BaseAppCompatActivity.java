@@ -25,6 +25,7 @@ public abstract class BaseAppCompatActivity extends AppCompatActivity implements
 
 
 
+
     protected String title;
     protected boolean shouldAdjustToolbarToFitWindow = true;
     protected boolean shouldSetUpToolbarBackIcon = true;
