@@ -5,6 +5,8 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.widget.Toast;
 
+import java.util.Map;
+
 /**
  * Created by Administrator on 2016/6/7.
  */
@@ -12,6 +14,9 @@ public class Angle_Of_Children extends Application {
     private static Context context;
     private static String SHOUHUTIANSHI = "The Angle Of Children";//文件名
     private static String ISFIRST = "IsFirst";
+
+    //定时器
+    public static Map<String, Long> map;
 
     @Override
     public void onCreate() {

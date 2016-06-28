@@ -6,5 +6,12 @@
     <color name="colorBlue">#35D1F9</color>
     <color name="colorGrey">#CEDCE9</color>
     <color name="colorWhite">#FAFAFA</color>
+    <color name="card_lv_blue">#FF5733</color>
+    <color name="black">#000000</color>
+    <color name="grey">#8E8E93</color>
+    <color name="transparent">#00000000</color>
+
+    <drawable name="transparent">#00000000</drawable>
+
 
 </resources>

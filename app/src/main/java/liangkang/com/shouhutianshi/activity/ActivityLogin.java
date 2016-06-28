@@ -3,17 +3,19 @@ package liangkang.com.shouhutianshi.activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 
 import liangkang.com.shouhutianshi.R;
 
 /**
  * Created by Administrator on 2016/6/7.
  */
-public class ActivityLogin extends ActivityBase{
-    private Button btn_login,btn_register,btn_forgetPassword;
+public class ActivityLogin extends AppCompatActivity implements View.OnClickListener {
+    private TextView btn_login,btn_register,btn_forgetPassword;
     private EditText et_account,et_password;
     private String account,password;
     @Override
@@ -24,9 +26,9 @@ public class ActivityLogin extends ActivityBase{
     }
 
     private void initView() {
-        btn_login= (Button) findViewById(R.id.button_login);
-        btn_register= (Button) findViewById(R.id.button_register);
-        btn_forgetPassword= (Button) findViewById(R.id.button_passwordForget);
+        btn_login= (TextView) findViewById(R.id.button_login);
+        btn_register= (TextView) findViewById(R.id.button_register);
+        btn_forgetPassword= (TextView) findViewById(R.id.button_passwordForget);
         et_account = (EditText) findViewById(R.id.et_account);
         et_password= (EditText) findViewById(R.id.et_password);
         btn_login.setOnClickListener(this);
