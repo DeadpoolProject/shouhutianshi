@@ -24,6 +24,7 @@ import liangkang.com.shouhutianshi.utils.SysUitils;
 public abstract class BaseAppCompatActivity extends AppCompatActivity implements View.OnClickListener {
 
 
+
     protected String title;
     protected boolean shouldAdjustToolbarToFitWindow = true;
     protected boolean shouldSetUpToolbarBackIcon = true;
