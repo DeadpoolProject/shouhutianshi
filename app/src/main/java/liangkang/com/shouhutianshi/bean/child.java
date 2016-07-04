@@ -4,6 +4,7 @@ package liangkang.com.shouhutianshi.bean;
  * Created by Administrator on 2016/6/12.
  */
 public class child {
+
     private int Id;
     private String ChildName;
     private String ChildSex;
